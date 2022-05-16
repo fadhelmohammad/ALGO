@@ -1,4 +1,3 @@
-     printf("\n\n------------Kuis Dimulai--------------\n\n");
      printf("\n\nSoal 1.\nRangka tersusun dari?\n");
      printf("a. Tulang dan daging\nb. Tulang dan otot\nc. Tulang dan kulit\nd. Tulang saja\n");
      printf("Input jawaban (huruf) : ");
@@ -110,7 +109,7 @@
     }
       getch();
 
-      printf("\nSoal 11.\nSiapakah yang menjadi khalifah pertama setelah wafatnya Nabi Muhammad SAW?\n");
+    printf("\nSoal 11.\nSiapakah yang menjadi khalifah pertama setelah wafatnya Nabi Muhammad SAW?\n");
     printf("a. Umar bin Khattab\nb. Abu Bakar Ash-Shiddiq\nc. Ali bin Abi Thalib\nd. Ustman bin Affan\n");
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab11);
@@ -119,9 +118,9 @@
     } else {
       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
+      getch();
 
-    getch();
-     printf("\nSoal 12.\nSiapakah yang menjadi khalifah terakhir dan juga keponakan Nabi Muhammad SAW??\n");
+    printf("\nSoal 12.\nSiapakah yang menjadi khalifah terakhir dan juga keponakan Nabi Muhammad SAW??\n");
     printf("a. Ustman bin Affan\nb. Abu Bakar Ash-Shiddiq\nc. Ali bin Abi Thalib\nd. Umar bin Khattab\n");
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab12);
@@ -130,9 +129,9 @@
     } else {
       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
+        getch();
 
-    getch();
-     printf("\nSoal 13.\nSiapakah khalifah yang paling lama pemerintahannya?\n");
+    printf("\nSoal 13.\nSiapakah khalifah yang paling lama pemerintahannya?\n");
     printf("a. Ali bin Abi Thalib\nb. Ustman bin Affan\nc. Umar bin Khattab\nd. Abu Bakar Ash-Shiddiq\n");
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab13);
@@ -141,9 +140,9 @@
     } else {
       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
+       getch();
 
-    getch();
-     printf("\nSoal 14.\nManakah berikut ini yang termasuk ke dalam kelompok hewan ovipar?\n");
+    printf("\nSoal 14.\nManakah berikut ini yang termasuk ke dalam kelompok hewan ovipar?\n");
     printf("a. Kucing\nb. Ayam\nc. Beruang\nd. Panda\n");
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab14);
@@ -152,8 +151,8 @@
     } else {
       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
+        getch();
 
-    getch();
     printf("\nSoal 15.\nManakah berikut ini yang termasuk ke dalam kelompok hewan karnivora?\n");
     printf("a. Kucing\nb. Ayam\nc. Beruang\nd. Panda\n");
     printf("Input jawaban (huruf) : ");
@@ -163,6 +162,8 @@
     } else {
       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
+       getch();
+
      printf("\n\nSoal 1.\nRangka tersusun dari?\n");
      printf("a. Tulang dan daging\nb. Tulang dan otot\nc. Tulang dan kulit\nd. Tulang saja\n");
      printf("Input jawaban (huruf) : ");
