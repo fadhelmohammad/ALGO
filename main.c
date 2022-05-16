@@ -1,3 +1,4 @@
+    printf("\n\n------------Kuis Dimulai--------------\n\n");
     printf("\nSoal 1.\nSiapakah yang menjadi khalifah pertama setelah wafatnya Nabi Muhammad SAW?\n");
     printf("a. Umar bin Khattab\nb. Abu Bakar Ash-Shiddiq\nc. Ali bin Abi Thalib\nd. Ustman bin Affan\n");
     printf("Input jawaban (huruf) : ");
@@ -218,13 +219,12 @@
       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
 
-//   soal();
+    //   soal();
           break;
       default:
             exit(0);
-    }
 
-//nilai();
+    //nilai();
     if(jawab11 == 'b' || jawab11 == 'B'){
        poin11 = poin + 5;
     }else{
