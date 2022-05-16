@@ -1,51 +1,51 @@
 //   nilai();
      if(jawab1 == 'b' || jawab1 == 'B'){
-       poin1 = poin + 10;
+       poin1 = poin + 5;
      }else{
        poin1 = 0;
      }
      if(jawab2 == 'c' || jawab2 == 'C'){
-       poin2 = poin + 10;
+       poin2 = poin + 5;
      }else{
        poin2 = 0;
      }
      if(jawab3 == 'b' || jawab3 == 'B'){
-       poin3 = poin + 10;
+       poin3 = poin + 5;
      }else{
        poin3 = 0;
      }
      if(jawab4 == 'b' || jawab4 == 'B'){
-       poin4 = poin + 10;
+       poin4 = poin + 5;
      }else{
        poin4 = 0;
      }
      if(jawab5 == 'a' || jawab5 == 'A'){
-       poin5 = poin + 10;
+       poin5 = poin + 5;
      }else{
        poin5 = 0;
      }
        if(jawab6 == 'c' || jawab6 == 'C'){
-       poin6 = poin + 10;
+       poin6 = poin + 5;
      }else{
        poin6 = 0;
      }
       if(jawab7 == 'a' || jawab7 == 'A'){
-       poin7 = poin + 10;
+       poin7 = poin + 5;
      }else{
        poin7 = 0;
      }
-      if(jawab8 == 'd' || jawab5 == 'D'){
-       poin8 = poin + 10;
+      if(jawab8 == 'd' || jawab8 == 'D'){
+       poin8 = poin + 5;
      }else{
        poin8 = 0;
      }
        if(jawab9 == 'a' || jawab9 == 'A'){
-       poin9 = poin + 10;
+       poin9 = poin + 5;
      }else{
        poin9 = 0;
      }
        if(jawab10 == 'b' || jawab10 == 'B'){
-       poin10 = poin + 10;
+       poin10 = poin + 5;
      }else{
        poin10 = 0;
      }
@@ -89,7 +89,7 @@
      }else{
        poin18 = 0;
      }
-       if(jawab9 == 'a' || jawab19 == 'A'){
+       if(jawab19 == 'a' || jawab19 == 'A'){
        poin19 = poin + 5;
      }else{
        poin19 = 0;
