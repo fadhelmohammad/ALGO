@@ -1,9 +1,7 @@
 #Jika data telah di sediakan
-data = [11,4,5,2,5,6,93,29]
+daftarAngka = [11,4,5,2,5,6,93,29]
 
-print("Data yang belum di urutkan : ", data)
+print("Daftar Angka yang belum di urutkan : ", daftarAngka)
 
-data.sort()
-print("Data yang sudah di urutkan  : ", data)
-
-
+daftarAngka.sort()
+print("Daftar Angka yang sudah di urutkan  : ", daftarAngka)
