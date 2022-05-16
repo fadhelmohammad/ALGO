@@ -49,7 +49,57 @@
      }else{
        poin10 = 0;
      }
-     total = poin1 + poin2 + poin3 + poin4 + poin5 + poin6 + poin7 + poin8 + poin9 + poin10;
+     if(jawab11 == 'b' || jawab11 == 'B'){
+       poin11 = poin + 5;
+     }else{
+       poin11 = 0;
+     }
+     if(jawab12 == 'c' || jawab12 == 'C'){
+       poin12 = poin + 5;
+     }else{
+       poin12 = 0;
+     }
+     if(jawab13 == 'b' || jawab13 == 'B'){
+       poin13 = poin + 5;
+     }else{
+       poin13 = 0;
+     }
+     if(jawab14 == 'b' || jawab14 == 'B'){
+       poin14 = poin + 5;
+     }else{
+       poin14 = 0;
+     }
+     if(jawab15 == 'a' || jawab15 == 'A'){
+       poin15 = poin + 5;
+     }else{
+       poin15 = 0;
+     }
+       if(jawab16 == 'c' || jawab16 == 'C'){
+       poin16 = poin + 5;
+     }else{
+       poin16 = 0;
+     }
+      if(jawab17 == 'a' || jawab17 == 'A'){
+       poin17 = poin + 5;
+     }else{
+       poin17 = 0;
+     }
+      if(jawab18 == 'd' || jawab18 == 'D'){
+       poin18 = poin + 5;
+     }else{
+       poin18 = 0;
+     }
+       if(jawab9 == 'a' || jawab19 == 'A'){
+       poin19 = poin + 5;
+     }else{
+       poin19 = 0;
+     }
+       if(jawab20 == 'b' || jawab20 == 'B'){
+       poin20 = poin + 5;
+     }else{
+       poin20 = 0;
+     }
+     total = poin1 + poin2 + poin3 + poin4 + poin5 + poin6 + poin7 + poin8 + poin9 + poin10 + poin11 + poin12 + poin13 + poin14 + poin15 + poin16 + poin17 + poin18 + poin19 + poin20;
      printf("\nWah Kamu Berhasil Mendapatkan Poin Sebanyak %d", total);
      printf("\n\n------------Kuis Telah Selesai--------------");
 //   hadiah();
