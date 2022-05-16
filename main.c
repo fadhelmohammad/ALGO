@@ -113,9 +113,9 @@
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab11);
     if(jawab11 == 'b'){
-        printf("Hore! Jawaban Anda Benar! >.<\n");
+      printf("Hore! Jawaban Anda Benar! >.<\n");
     } else {
-       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
+      printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
         getch();
 
@@ -125,9 +125,9 @@
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab12);
     if(jawab12 == 'c'){
-       printf("Hore! Jawaban Anda Benar! >.<\n");
+      printf("Hore! Jawaban Anda Benar! >.<\n");
     } else {
-       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
+      printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
         getch();
 
@@ -136,9 +136,9 @@
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab13);
     if(jawab13 == 'b'){
-       printf("Hore! Jawaban Anda Benar! >.<\n");
+      printf("Hore! Jawaban Anda Benar! >.<\n");
     } else {
-       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
+      printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
         getch();
 
@@ -147,9 +147,9 @@
     printf("Input jawaban (huruf) : ");
     scanf(" %c",&jawab14);
     if(jawab14 == 'b'){
-       printf("Hore! Jawaban Anda Benar! >.<\n");
+      printf("Hore! Jawaban Anda Benar! >.<\n");
     } else {
-       printf("Ups, Jawaban Anda Kurang Tepat :(\n");
+      printf("Ups, Jawaban Anda Kurang Tepat :(\n");
     }
        getch();
 
