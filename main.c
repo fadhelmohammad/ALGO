@@ -1,3 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <conio.h>
+
+int main ()
+{
  // deklarasi variabel soal
 
     int pilih,total;
@@ -17,3 +24,6 @@
     printf("Input Pilihan Anda : ");
     scanf("%d", &pilih);
     getchar();
+
+
+
