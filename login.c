@@ -18,7 +18,7 @@ int main (int loginSystem, char *login[])
     //pointer
     FILE *fpr;
 
-    if ((fpr = fopen("Algo.bin", "rb")) == NULL){
+    if ((fpr = fopen("login.bin", "rb")) == NULL){
         printf("File tidak dapat dibuka!");
         return EXIT_FAILURE;
     }
