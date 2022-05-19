@@ -5,8 +5,8 @@ int main (){
     FILE *signup, *ceksignup;
 
     //membuka file login.bin 
-    signup = fopen("Algo.bin","wb");
-    ceksignup = fopen("Algo.bin","rb");
+    signup = fopen("login.bin","wb");
+    ceksignup = fopen("login.bin","rb");
 
     //deklarasikan variable untuk membuat user dan password kita 
     char usernamepassword[25] = "Algo@root";
