@@ -9,6 +9,7 @@ int main (int loginSystem, char *login[])
     {
         printf("Anda harus login terlebih dahulu!");
         printf("\nCara penggunaan : ./namafile username password");
+        return EXIT_FAILURE ;
     }
 
     char usernameInput[10], passwordInput[10];
